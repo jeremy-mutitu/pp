@@ -5,7 +5,7 @@ the code can be used and changed.
 
 
 Built by
- Jeremiah Mutitu
+
 
 
 Versioning
