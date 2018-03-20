@@ -5,12 +5,12 @@ the code can be used and changed.
 
 
 Built by
+ Jeremiah Mutitu
 
 
 
 Versioning
-
-1.o
+ 1.0
 Authors
 
 Jermiah Mutitu
