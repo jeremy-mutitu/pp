@@ -1,6 +1,6 @@
 PERSONAL PORTFOLIO
 
-This is a project of a personl portfolio webpage belonging to Jeremiah mutitu.
+This is a project of a personl portfolio webpage belonging to Jeremiah mutitu
 the code can be used and changed.
 
 
